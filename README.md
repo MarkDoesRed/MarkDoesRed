@@ -2,7 +2,7 @@
 
 <code>[YOU MATTER !!!]</code>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&height=50&lines=Web+Application+Security+Guy+%E2%9A%A1;Building+%26+Breaking+Systems;Exploiting+Logic+Layers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&height=50&lines=Web+Application+Security+Guy+%E2%9A%A1;Building+%26+Breaking;YOU+MATTER" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MarkDoesRed&color=ff006e&style=flat-square&label=Visitors" alt="Profile Views" />
