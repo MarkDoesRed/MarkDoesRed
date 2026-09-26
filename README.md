@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/OpenGL-555555?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarkDoesRed/MarkDoesRed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects & Ventures
