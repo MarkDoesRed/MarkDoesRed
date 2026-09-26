@@ -29,6 +29,5 @@
 * **`[01]` Optimo Engine (`C++ / OpenGL`):** A custom terminal-driven command shell and immediate-mode graphics sandbox environment built for Windows.
 
 ---
-<center>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</center>
