@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=680&height=50&lines=WEB+APPLICATION+SECURITY+%2F%2F+SEC_OPS;BUILDING+THE+STACK+%2F%2F+BREAKING+THE+MATRIX;YOU+MATTER+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MarkDoesRed&color=00F5FF&style=flat-square&label=SYS_ACCESS_COUNT&labelColor=0a0a0f" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MarkDoesRed&color=00F5FF&style=flat-square&label=Visitors&labelColor=0a0a0f" alt="Profile Views" />
 </p>
 
 </div>
