@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=680&height=50&lines=WEB+APPLICATION+SECURITY+%2F%2F+SEC_OPS;BUILDING+THE+STACK+%2F%2F+BREAKING+THE+MATRIX;YOU+MATTER+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
@@ -11,7 +12,7 @@
 
 ### `> hamburger@imbadatthis:~# echo hamburger`
 
-> **"Joy Baiting Programmer"** & **Web Application Security **
+> **"Joy Baiting Programmer"** & **Web Application Security**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f" alt="Python" />
@@ -25,8 +26,18 @@
 
 ### `⚡ :: ACTIVE_PROTOCOLS & PROJECTS ::`
 
-* **`[01]` Optimo Engine (`C++ / OpenGL`):** A custom terminal-driven command shell and immediate-mode graphics sandbox environment built for Windows.
+* **`[01]` `-2024-Prototyping-Engine-for-Custom-Logic` (`C++`):** A monolithic C++ command-line shell, file manager, and immediate-mode OpenGL graphics sandbox.
   * *Status:* `[ONLINE]` | *Focus:* Low-level rendering & input parsing.
+* **`[02]` `2020-C.H.U.C.K-LAMP-STACK-MANAGEMENT` (`Perl`):** *(Discontinued)* CLI toolkit for LAMP stack management, automated threat mitigation, firewall synchronization, and HTTP diagnostic testing.
+  * *Status:* `[ARCHIVED]` | *Focus:* System Administration & Threat Defense.
+* **`[03]` `C.H.U.C.K-POT-2025` (`PHP`):** Utilizes IPAbuseDB API for redirecting bad actors with bad scores into a honeypot via Location Header.
+  * *Status:* `[ACTIVE]` | *Focus:* Threat Intelligence & Defensive Routing.
+* **`[04]` `CHUCK-APACHE-BANNER` (`Perl`):** A lightweight Perl IDS/IPS that scans Apache logs and automatically blocks malicious IPs via iptables.
+  * *Status:* `[ACTIVE]` | *Focus:* Log Analysis & Automated Defense.
+* **`[05]` `UA-FORGE` (`Perl`):** A Perl utility to forge custom User-Agent strings and test server HTTP response statuses.
+  * *Status:* `[ONLINE]` | *Focus:* HTTP Testing & Reconnaissance.
+* **`[06]` `2020-PHP-SECURE-SESSION` (`PHP`):** PHP session handler and CSRF protection shield featuring strict cookie hardening, constant-time token validation, and intrusion logging.
+  * *Status:* `[SECURE]` | *Focus:* Session Security & Web Hardening.
 
 ---
 
