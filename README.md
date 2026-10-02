@@ -9,9 +9,9 @@
 
 ---
 
-### `> root@cyberdeck:~# whoami`
+### `> hamburger@imbadatthis:~# echo hamburger`
 
-> **"Joy Baiting Programmer"** & **Web Application Security Specialist**. Obsessed with the intersection of backend architecture, low-level graphics, and offensive security.
+> **"Joy Baiting Programmer"** & **Web Application Security **
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0f" alt="Python" />
