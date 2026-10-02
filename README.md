@@ -1,9 +1,4 @@
 <div align="center">
-
-<code>┌────────────────────────────────────────────────────────┐</code>
-<code>│              [-----YOU MATTER V1.00-----]              │</code>
-<code>└────────────────────────────────────────────────────────┘</code>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=680&height=50&lines=WEB+APPLICATION+SECURITY+%2F%2F+SEC_OPS;BUILDING+THE+STACK+%2F%2F+BREAKING+THE+MATRIX;YOU+MATTER+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
